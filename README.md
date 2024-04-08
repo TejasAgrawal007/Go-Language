@@ -1,2 +1,2 @@
 # Go Language
- New Started
+ New Start
